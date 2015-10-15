@@ -40,3 +40,28 @@ img {
 	max-width: 150px;
 	padding: 0 50px;
 }
+
+.border {
+	border-bottom: 1px solid black;
+	padding-top: 50px;
+	width: 60%;
+	margin: 0 auto;
+	
+}
+.borderdad {
+	width: 100%;
+	text-align: center;
+	
+}
+
+.imagine {
+	font-size: .9em;
+
+}
+
+.links {
+	text-align: center;
+}
+a {
+	text-decoration: none;
+}
